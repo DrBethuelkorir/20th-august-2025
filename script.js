@@ -31,4 +31,4 @@ function updateCountdown() {
 setInterval(updateCountdown, 1000);
 
 // Initial call to avoid delay
-// updateCountdown();
+updateCountdown();
